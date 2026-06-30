@@ -1,16 +1,37 @@
-## Hi there 👋
+![Banner](banerZaim.png)
 
-<!--
-**zhnif/zhnif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm zhnif 👋
 
-Here are some ideas to get you started:
+💻 Intermediate Web Developer | 🎨 Creative Learner | 🚀 Exploring .NET & Web Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏷️ Badges
+![Profile Views](https://komarev.com/ghpvc/?username=zhnif&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/zhnif?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/zhnif?style=social)
+![Languages](https://img.shields.io/badge/code-C%23%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-blue)
+![Framework](https://img.shields.io/badge/framework-.NET%20Framework-orange)
+![Status](https://img.shields.io/badge/status-active-success)
+
+---
+
+## 🔧 Skills
+- HTML, CSS, Bootstrap
+- PHP, C#
+- C# Windows Forms
+- SQL Server
+
+---
+
+## 👤 About Me
+- 🌱 Currently learning advanced web development and .NET  
+- 🎯 Passionate about building visually accurate layouts with vibrant colors  
+- 📚 Love experimenting with responsive design and interactive UI  
+- 🚀 Exploring new tech to improve everyday productivity  
+- 💡 Motto: *Code, Create, Learn*
+
+---
+
+## 🌟 Fun Fact
+I enjoy turning simple ideas into useful apps for daily life!
